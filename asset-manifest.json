@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expressly/static/css/main.5b0bf247.css",
+    "main.js": "/expressly/static/js/main.4ebabe81.js",
+    "static/js/453.194619bc.chunk.js": "/expressly/static/js/453.194619bc.chunk.js",
+    "index.html": "/expressly/index.html",
+    "main.5b0bf247.css.map": "/expressly/static/css/main.5b0bf247.css.map",
+    "main.4ebabe81.js.map": "/expressly/static/js/main.4ebabe81.js.map",
+    "453.194619bc.chunk.js.map": "/expressly/static/js/453.194619bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b0bf247.css",
+    "static/js/main.4ebabe81.js"
+  ]
+}
