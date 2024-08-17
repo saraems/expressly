@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "name": "expressly",
+  "homepage": "https://saraems.github.io/expressly/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
