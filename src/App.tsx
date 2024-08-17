@@ -57,7 +57,8 @@ const App = () => {
       <div className="Sidebar">
         <div className="Header">
           <div className="Header-title">
-            <img src="/folder.svg" alt="" className="Folder" /> Friends
+            <img src="/folder.svg" alt="" className="Folder" />
+            Friends
           </div>
         </div>
 
